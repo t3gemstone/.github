@@ -4,7 +4,7 @@
 
 <img src="./teknofest.png" width="500">
 
-To see where the projects in the repository are used, you can visit the [Documentation](https://docs.t3gemstone.org).
+To see where the projects in the repository are used, you can visit the [Documentation](https://docs.t3gemstone.org/en).
 
 > Gemstone development boards, composed of open-source software and hardware, are artificial intelligence-supported
 > devices. They have optimized Real-Time Debian based GNU/Linux operating system which developed for use in
