@@ -18,5 +18,3 @@ To see where the projects in the repository are used, you can visit the [Documen
 > 
 > For feedback, suggestions, questions, etc., you can visit the [Community Forum](https://community.t3gemstone.org/).
 >
-
-<meta name="google-site-verification" content="665KiNBAx4DsKaFHCd9ZquL_-pFOxBr1rEQ5JLEyUdo" />
