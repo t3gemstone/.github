@@ -23,8 +23,8 @@ To see where the projects in the repository are used, you can visit the [Documen
 
 Depodaki projelerin nerede kullanıldığını görmek için [dokümanları](https://docs.t3gemstone.org/tr) ziyaret edebilirsiniz.
 
-> Açık kaynak yazılım ve donanımdan oluşan [Gemstone](https://preprod.kureansiklopedi.com/tr/detay/Gemstone) geliştirme
-> kartları; Teknofest yarışmalarında İnsanlı ve İnsansız Sistemler, IoT, Robotik vb. çalışmalarda kullanılmak üzere
+> Açık kaynak yazılım ve donanımdan oluşan Gemstone geliştirme kartları; Teknofest yarışmalarında
+> İnsanlı ve İnsansız Sistemler, IoT, Robotik vb. çalışmalarda kullanılmak üzere
 > geliştirilmiş yapay zeka destekli donanımlar ve optimize edilmiş Gerçek Zamanlı Debian tabanlı GNU/Linux
 > işletim sistemine sahip bilgisayarlardır. [Türkiye Teknoloji Takımı](https://t3vakfi.org/tr/)
 > Vakfı tarafından yarışmacılar, öğrenciler ve girişimciler için geliştirilmektedir.
